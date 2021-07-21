@@ -1,5 +1,5 @@
 [![](http://cranlogs.r-pkg.org/badges/grand-total/ROlogit)](http://cran.rstudio.com/web/packages/ROlogit/index.html)
-[![Rdoc](http://www.rdocumentation.org/badges/version/ROlogit)](http://www.rdocumentation.org/packages/ROlogit)
+<!--[![Rdoc](http://www.rdocumentation.org/badges/version/ROlogit)](http://www.rdocumentation.org/packages/ROlogit)-->
 
 Use the following code to install the package from CRAN:
 ```r
