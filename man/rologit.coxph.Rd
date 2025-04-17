@@ -15,7 +15,7 @@ rologit.coxph(design.mat, y, svar = NULL, method = "efron")
 
 \item{method}{string. Use Efron (\code{"efron"}) or Breslow
 (\code{"breslow"}) method for handling ties in the outcome. The default is
-\code{"efron"}. See \code{\link[survival]{coxph}} for details.}
+\code{"efron"}. See \code{\link{coxph}} for details.}
 }
 \value{
 Returns the model fitted using \code{coxph}.
