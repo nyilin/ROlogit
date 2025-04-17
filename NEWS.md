@@ -1,4 +1,3 @@
 # ROlogit 0.1.3
 
-* Added a `NEWS.md` file to track changes to the package.
-* Fixed minor issue in documentation of `rologit.coxph`.
+* This update fixes the issue flagged by CRAN regarding link to `coxph` function in help document. No other functional changes were made.
